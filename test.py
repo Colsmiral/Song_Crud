@@ -1,1 +1,1 @@
-var = "This is the assignment"
+var = "this is a test file"
